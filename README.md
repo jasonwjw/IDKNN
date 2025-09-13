@@ -1,5 +1,6 @@
 # ONLY for reviewer to check
 1.clone the repositry from https://github.com/yanx27/Pointnet_Pointnet2_pytorch
+
 ,follow its procedures to download datasets  
 
 2.copy our model idknn94.16.py into the folder (/models)  
